@@ -1,4 +1,4 @@
 ﻿
 Console.WriteLine("Hello, Sergio!");
 
-//Ejercicio 3.1
+//Ejercicios consola sin clases
